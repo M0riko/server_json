@@ -16,6 +16,7 @@
   "homepage": "https://github.com/AlexanderVictorov/json_server#readme",
   "dependencies": {
     "json-server": "^0.17.3",
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "vercel": "^32.5.0"
   }
 }
